@@ -1,6 +1,6 @@
 # 🐍 Snakes & Ladders: ANN Win Predictor + Playable Game
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/dishaaaaa20/Snake-and-Ladder-game-human-v-s-computer-/blob/main/snakes_ladders_ann.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/dishaaaaa20/Snake-and-Ladder-game-human-v-s-computer-/blob/main/snakes_ladders_annfinal.ipynb)
 
 An Artificial Neural Network (ANN) built with Keras that predicts who is winning a game of Snakes & Ladders, plus a **playable, colourful version of the game** where you race the computer, watch animated dice rolls, and see the ANN's live win probability.
 
@@ -17,6 +17,9 @@ An Artificial Neural Network (ANN) built with Keras that predicts who is winning
 | `snakes_ladders_ann.ipynb` | Google Colab notebook: dataset, training, evaluation and the playable game |
 | `snake_ladder_dataset.csv` | Simulated dataset of ~262,000 turns from 5,000 two-player games |
 
+| Mid-game | Winning |
+|---|---|
+| ![Mid-game](MIDGAME_SCREENSHOT.webp) | ![Win](FINAL_SCREENSHOT.webp) |
 
 ## How it works
 
